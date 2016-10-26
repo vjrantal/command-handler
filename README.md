@@ -1,1 +1,9 @@
-# command-handler
+# Installation
+
+```
+npm install command handler
+```
+
+# Usage
+
+TBD

@@ -1,0 +1,25 @@
+{
+  "name": "command-handler",
+  "version": "1.0.0",
+  "description": "Helper library to handle input and output of a command spawned as child process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vjrantal/command-handler.git"
+  },
+  "author": "Ville Rantala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vjrantal/command-handler/issues"
+  },
+  "homepage": "https://github.com/vjrantal/command-handler",
+  "dependencies": {
+    "bluebird": "^3.4.6"
+  },
+  "devDependencies": {
+    "tape": "^4.6.2"
+  }
+}
